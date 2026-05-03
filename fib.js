@@ -6,5 +6,6 @@ for (var i=0;i<10;i++){
     console.log(a);
     sum=a+b;
     a=b;
-    b=sum
+    b=sum;
+    
 }
